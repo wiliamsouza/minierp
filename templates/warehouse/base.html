@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block title %}/MiniErp/Warehouse{% endblock %}
+
+{% block warehouse %}
+
+  {% include "navigator.html" %}
+
+  <ul>
+    <li><a href="/warehouse/product/add/">Add product</a></li>
+    <li><a href="/warehouse/category/add/">Add Category</a></li>
+    <li><a href="/warehouse/requisition/">Add requisition</a></li>
+    <li><a href="/warehouse/product/">Products list</a></li>
+    <li><a href="/warehouse/category/">Categories list</a></li>
+    <li><a href="/warehouse/requisition/">Requisition list</a></li>
+  </ul>
+
+  {% block warehouse-index %}{% endblock %}
+
+  {% block products %}{% endblock %}
+  {% block products-list %}{% endblock %} 
+
+  {% block categories %}{% endblock %}
+  {% block categories-list %}{% endblock %}
+
+  {% block requisitions %}{% endblock %}
+
+{% endblock %}

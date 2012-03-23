@@ -1,0 +1,38 @@
+{% extends "purchase/base.html" %}
+
+{% block order %}
+  <h2>{{ title }}</h2>
+  <form action="" method="POST">
+    <ul>
+      {{ form.as_ul }}
+      {% if order %}
+      <li>
+        <a href="/purchase/item/add/supplier/{{ order.supplier.id }}/order/{{ order.id }}/">Add products</a>
+      </li>
+      {% endif %}
+      {% if items %}
+      <li>
+        <table>
+          <tr>
+            <td>Product</td>
+            <td>Quantity</td>
+            <td>Cost</td>
+            <td>Total</td>
+            <td>Action</td>
+          </tr>
+          {% for item in items %}
+          <tr bgcolor='{% cycle FFFFFF,EEEEEE as rowcolor %}'>
+            <td>{{ item.product.description }}</td>
+            <td>{{ item.quantity }}</td>
+            <td>{{ item.product.cost }}</td>
+            <td>{{ item.multiply }}</td>
+            <td><a href="/admin/purchase/item/{{ item.id }}/delete/">Remove</a></td>          
+          </tr>
+          {% endfor %}
+        </table>
+      </li>
+      {% endif %}      
+      <li><input type=submit value="Save"></li>
+    </ul>
+  </form>
+{% endblock %}

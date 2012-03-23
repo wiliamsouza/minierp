@@ -1,0 +1,1 @@
+[{"pk": "1", "model": "purchase.status", "fields": {"status": "Active"}}, {"pk": "2", "model": "purchase.status", "fields": {"status": "Inactive"}}, {"pk": "3", "model": "purchase.status", "fields": {"status": "Blocked"}}]

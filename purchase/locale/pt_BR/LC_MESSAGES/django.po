@@ -1,0 +1,985 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: minierp\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-03-29 12:42-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Wiliam Alves de Souza <wiliamsouza83@gmail.com>\n"
+"Language-Team: Brazilian Portuguese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: countries.py:4
+msgid "United States"
+msgstr "Estados Unidos"
+
+#: countries.py:5
+msgid "Afghanistan"
+msgstr "Afeganistão"
+
+#: countries.py:6
+msgid "Albania"
+msgstr "Albânia"
+
+#: countries.py:7
+msgid "Algeria"
+msgstr "Argélia"
+
+#: countries.py:8
+msgid "American Samoa"
+msgstr "Samoa Americana"
+
+#: countries.py:9
+msgid "Andorra"
+msgstr "Andorra"
+
+#: countries.py:10
+msgid "Angola"
+msgstr "Angola"
+
+#: countries.py:11
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: countries.py:12
+msgid "Antarctica"
+msgstr "Antártica"
+
+#: countries.py:13
+msgid "Antigua And Barbuda"
+msgstr "Antígua e Barbuda"
+
+#: countries.py:14
+msgid "Argentina"
+msgstr "Argentina"
+
+#: countries.py:15
+msgid "Armenia"
+msgstr "Armênia"
+
+#: countries.py:16
+msgid "Aruba"
+msgstr "Aruba"
+
+#: countries.py:17
+msgid "Australia"
+msgstr "Austrália"
+
+#: countries.py:18
+msgid "Austria"
+msgstr "Áustria"
+
+#: countries.py:19
+msgid "Azerbaijan"
+msgstr "Azerbaijão"
+
+#: countries.py:20
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: countries.py:21
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: countries.py:22
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: countries.py:23
+msgid "Barbados"
+msgstr "Barbados"
+
+#: countries.py:24
+msgid "Belarus"
+msgstr "Beielorússia"
+
+#: countries.py:25
+msgid "Belgium"
+msgstr "Bélgica"
+
+#: countries.py:26
+msgid "Belize"
+msgstr "Belize"
+
+#: countries.py:27
+msgid "Benin"
+msgstr "Benin"
+
+#: countries.py:28
+msgid "Bermuda"
+msgstr "Bermudas"
+
+#: countries.py:29
+msgid "Bhutan"
+msgstr "Butão"
+
+#: countries.py:30
+msgid "Bolivia"
+msgstr "Bolívia"
+
+#: countries.py:31
+msgid "Bosnia And Herzegowina"
+msgstr "Bósnia e Herzegovina"
+
+#: countries.py:32
+msgid "Botswana"
+msgstr "Botswana"
+
+#: countries.py:33
+msgid "Bouvet Island"
+msgstr "Ilhas Bouvet"
+
+#: countries.py:34
+msgid "Brazil"
+msgstr "Brasil"
+
+#: countries.py:35
+msgid "British Indian Ocean Territory"
+msgstr "Território do Oceano Índico Britânico"
+
+#: countries.py:36
+msgid "Brunei Darussalam"
+msgstr "Brunei Darussalam"
+
+#: countries.py:37
+msgid "Bulgaria"
+msgstr "Bulgária"
+
+#: countries.py:38
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: countries.py:39
+msgid "Burundi"
+msgstr "Burundi"
+
+#: countries.py:40
+msgid "Cambodia"
+msgstr "Camboja"
+
+#: countries.py:41
+msgid "Cameroon"
+msgstr "Camarões"
+
+#: countries.py:42
+msgid "Canada"
+msgstr "Canadá"
+
+#: countries.py:43
+msgid "Cape Verde"
+msgstr "Cabo Verde"
+
+#: countries.py:44
+msgid "Cayman Islands"
+msgstr "Ilhas Cayman"
+
+#: countries.py:45
+msgid "Central African Republic"
+msgstr "República Centro-Africana"
+
+#: countries.py:46
+msgid "Chad"
+msgstr "Chade"
+
+#: countries.py:47
+msgid "Chile"
+msgstr "Chile"
+
+#: countries.py:48
+msgid "China"
+msgstr "China"
+
+#: countries.py:49
+msgid "Christmas Island"
+msgstr "Ilhas Christmas"
+
+#: countries.py:50
+msgid "Cocos (Keeling) Islands"
+msgstr "Ilhas dos Cocos"
+
+#: countries.py:51
+msgid "Colombia"
+msgstr "Colômbia"
+
+#: countries.py:52
+msgid "Comoros"
+msgstr "Comores"
+
+#: countries.py:53
+msgid "Congo"
+msgstr "Congo"
+
+#: countries.py:54
+msgid "Congo, The Democratic Republic Of The"
+msgstr "Congo, República Democrática do "
+
+#: countries.py:55
+msgid "Cook Islands"
+msgstr "Ilhas Cook"
+
+#: countries.py:56
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: countries.py:57
+msgid "Cote d'Ivoire"
+msgstr "Costa do Marfim"
+
+#: countries.py:58
+msgid "Croatia"
+msgstr "Croácia"
+
+#: countries.py:59
+msgid "Cuba"
+msgstr "Cuba"
+
+#: countries.py:60
+msgid "Cyprus"
+msgstr "Chipre"
+
+#: countries.py:61
+msgid "Czech Republic"
+msgstr "República Checa"
+
+#: countries.py:62
+msgid "Denmark"
+msgstr "Dinamarca"
+
+#: countries.py:63
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: countries.py:64
+msgid "Dominica"
+msgstr "Dominica"
+
+#: countries.py:65
+msgid "Dominican Republic"
+msgstr "República Dominicana"
+
+#: countries.py:66
+msgid "Ecuador"
+msgstr "Equador"
+
+#: countries.py:67
+msgid "Egypt"
+msgstr "Egito"
+
+#: countries.py:68
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: countries.py:69
+msgid "Equatorial Guinea"
+msgstr "Guiné Equatorial"
+
+#: countries.py:70
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: countries.py:71
+msgid "Estonia"
+msgstr "Estônia"
+
+#: countries.py:72
+msgid "Ethiopia"
+msgstr "Etiópia"
+
+#: countries.py:73
+msgid "Falkland Islands"
+msgstr "Ilhas Falkland (Malvinas)"
+
+#: countries.py:74
+msgid "Faroe Islands"
+msgstr "Ilhas Faroe"
+
+#: countries.py:75
+msgid "Fiji"
+msgstr "Fiji"
+
+#: countries.py:76
+msgid "Finland"
+msgstr "Finlândia"
+
+#: countries.py:77
+msgid "France"
+msgstr "França"
+
+#: countries.py:78
+msgid "French Guiana"
+msgstr "Guiana Francesa"
+
+#: countries.py:79
+msgid "French Polynesia"
+msgstr "Polinésia Francesa"
+
+#: countries.py:80
+msgid "French Southern Territories"
+msgstr "Territórios Franceses do Sul"
+
+#: countries.py:81
+msgid "Gabon"
+msgstr "Gabão"
+
+#: countries.py:82
+msgid "Gambia"
+msgstr "Gâmbia"
+
+#: countries.py:83
+msgid "Georgia"
+msgstr "Geórgia"
+
+#: countries.py:84
+msgid "Germany"
+msgstr "Alemanha"
+
+#: countries.py:85
+msgid "Ghana"
+msgstr "Gana"
+
+#: countries.py:86
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: countries.py:87
+msgid "Greece"
+msgstr "Grécia"
+
+#: countries.py:88
+msgid "Greenland"
+msgstr "Groenlândia"
+
+#: countries.py:89
+msgid "Grenada"
+msgstr "Granada"
+
+#: countries.py:90
+msgid "Guadeloupe"
+msgstr "Guadalupe"
+
+#: countries.py:91
+msgid "Guam"
+msgstr "Guam"
+
+#: countries.py:92
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: countries.py:93
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: countries.py:94
+msgid "Guinea"
+msgstr "Guiné"
+
+#: countries.py:95
+msgid "Guinea-bissau"
+msgstr "Guiné-Bissau"
+
+#: countries.py:96
+msgid "Guyana"
+msgstr "Guiana"
+
+#: countries.py:97
+msgid "Haiti"
+msgstr "Haiti"
+
+#: countries.py:98
+msgid "Heard And McDonald Islands"
+msgstr "Ilhas Heard e McDonald"
+
+#: countries.py:99
+msgid "Holy See"
+msgstr "Santa Sé"
+
+#: countries.py:100
+msgid "Honduras"
+msgstr "Honduras"
+
+#: countries.py:101
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: countries.py:102
+msgid "Hungary"
+msgstr "Hungria"
+
+#: countries.py:103
+msgid "Iceland"
+msgstr "Islândia"
+
+#: countries.py:104
+msgid "India"
+msgstr "Índia"
+
+#: countries.py::105
+msgid "Indonesia"
+msgstr "Indonésia"
+
+#: countries.py:106
+msgid "Iran"
+msgstr "Irã"
+
+#: countries.py:107
+msgid "Iraq"
+msgstr "Iraque"
+
+#: countries.py:108
+msgid "Ireland"
+msgstr "Irlanda"
+
+#: countries.py:109
+msgid "Isle of Man"
+msgstr "Ilha de Man"
+
+#: countries.py:110
+msgid "Israel"
+msgstr "Israel"
+
+#: countries.py:111
+msgid "Italy"
+msgstr "Itália"
+
+#: countries.py:112
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: countries.py:113
+msgid "Japan"
+msgstr "Japão"
+
+#: countries.py:114
+msgid "Jersey"
+msgstr "Jersey"
+
+#: countries.py:115
+msgid "Jordan"
+msgstr "Jordânia"
+
+#: countries.py:116
+msgid "Kazakhstan"
+msgstr "Cazaquistão"
+
+#: countries.py:117
+msgid "Kenya"
+msgstr "Quênia"
+
+#: countries.py:118
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: countries.py:119
+msgid "Korea, Democratic People's Republic Of"
+msgstr "Coréia do Norte"
+
+#: countries.py:120
+msgid "Korea, Republic Of"
+msgstr "Coréia do Sul"
+
+#: countries.py:121
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: countries.py:122
+msgid "Kyrgyzstan"
+msgstr "Quirguistão"
+
+#: countries.py:123
+msgid "Laos"
+msgstr "Laos"
+
+#: countries.py:124
+msgid "Latvia"
+msgstr "Letônia"
+
+#: countries.py:125
+msgid "Lebanon"
+msgstr "Líbano"
+
+#: countries.py:126
+msgid "Lesotho"
+msgstr "Lesoto"
+
+#: countries.py:127
+msgid "Liberia"
+msgstr "Libéria"
+
+#: countries.py:128
+msgid "Libya"
+msgstr "Líbia"
+
+#: countries.py:129
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: countries.py:130
+msgid "Lithuania"
+msgstr "Lituânia"
+
+#: countries.py:131
+msgid "Luxembourg"
+msgstr "Luxemburgo"
+
+#: countries.py:132
+msgid "Macao"
+msgstr "Macau"
+
+#: countries.py:133
+msgid "Macedonia"
+msgstr "Macedônia"
+
+#: countries.py:134
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: countries.py:135
+msgid "Malawi"
+msgstr "Malawi"
+
+#: countries.py:136
+msgid "Malaysia"
+msgstr "Malásia"
+
+#: countries.py:137
+msgid "Maldives"
+msgstr "Maldivas"
+
+#: countries.py:138
+msgid "Mali"
+msgstr "Mali"
+
+#: countries.py:139
+msgid "Malta"
+msgstr "Malta"
+
+#: countries.py:140
+msgid "Marshall Islands"
+msgstr "Ilhas Marshall"
+
+#: countries.py:141
+msgid "Martinique"
+msgstr "Martinica"
+
+#: countries.py:142
+msgid "Mauritania"
+msgstr "Mauritânia"
+
+#: countries.py:143
+msgid "Mauritius"
+msgstr "Maurício"
+
+#: countries.py:144
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: countries.py:145
+msgid "Mexico"
+msgstr "México"
+
+#: countries.py:146
+msgid "Micronesia"
+msgstr "Micronésia"
+
+#: countries.py:147
+msgid "Moldova, Republic Of"
+msgstr "Moldova, República da"
+
+#: countries.py:148
+msgid "Monaco"
+msgstr "Mônaco"
+
+#: countries.py:149
+msgid "Mongolia"
+msgstr "Mongólia"
+
+#: countries.py:150
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: countries.py:151
+msgid "Morocco"
+msgstr "Marrocos"
+
+#: countries.py:152
+msgid "Mozambique"
+msgstr "Moçambique"
+
+#: countries.py:153
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: countries.py:154
+msgid "Namibia"
+msgstr "Namíbia"
+
+#: countries.py:155
+msgid "Nauru"
+msgstr "Nauru"
+
+#: countries.py:156
+msgid "Nepal"
+msgstr "Nepal"
+
+#: countries.py:157
+msgid "Netherlands"
+msgstr "Holanda"
+
+#: countries.py:158
+msgid "Netherlands Antilles"
+msgstr "Antilhas Holandesas"
+
+#: countries.py:159
+msgid "New Caledonia"
+msgstr "Nova Caledônia"
+
+#: countries.py:160
+msgid "New Zealand"
+msgstr "Nova Zelândia"
+
+#: countries.py:161
+msgid "Nicaragua"
+msgstr "Nicarágua"
+
+#: countries.py:162
+msgid "Niger"
+msgstr "Niger"
+
+#: countries.py:163
+msgid "Nigeria"
+msgstr "Nigéria"
+
+#: countries.py:164
+msgid "Niue"
+msgstr "Niue"
+
+#: countries.py:165
+msgid "Norfolk Island"
+msgstr "Ilhas Norfolk"
+
+#: countries.py:166
+msgid "Northern Mariana Islands"
+msgstr "Ilhas Marianas do Norte"
+
+#: countries.py:167
+msgid "Norway"
+msgstr "Noruega"
+
+#: countries.py:168
+msgid "Oman"
+msgstr "Omã"
+
+#: countries.py:169
+msgid "Pakistan"
+msgstr "Paquistão"
+
+#: countries.py:170
+msgid "Palau"
+msgstr "Palau"
+
+#: countries.py:171
+msgid "Palestinian Territory"
+msgstr "Território Palestino"
+
+#: countries.py:172
+msgid "Panama"
+msgstr "Panamá"
+
+#: countries.py:173
+msgid "Papua New Guinea"
+msgstr "Papua Nova Guiné"
+
+#: countries.py:174
+msgid "Paraguay"
+msgstr "Paraguai"
+
+#: countries.py:175
+msgid "Peru"
+msgstr "Peru"
+
+#: countries.py:176
+msgid "Philippines"
+msgstr "Filipinas"
+
+#: countries.py:177
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: countries.py:178
+msgid "Poland"
+msgstr "Polônia"
+
+#: countries.py:179
+msgid "Portugal"
+msgstr "Portugal"
+
+#: countries.py:180
+msgid "Puerto Rico"
+msgstr "Porto Rico"
+
+#: countries.py:181
+msgid "Qatar"
+msgstr "Qatar"
+
+#: countries.py:182
+msgid "Reunion"
+msgstr "Reunião"
+
+#: countries.py:183
+msgid "Romania"
+msgstr "Romênia"
+
+#: countries.py:184
+msgid "Russian Federation"
+msgstr "Federação Russa"
+
+#: countries.py:185
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: countries.py:186
+msgid "Saint Kitts And Nevis"
+msgstr "Saint Kitts e Nevis"
+
+#: countries.py:187
+msgid "Saint Lucia"
+msgstr "Santa Lúcia"
+
+#: countries.py:188
+msgid "Saint Vincent And The Grenadines"
+msgstr "São Vicente e Granadinas"
+
+#: countries.py:189
+msgid "Samoa"
+msgstr "Samoa"
+
+#: countries.py:190
+msgid "San Marino"
+msgstr "San Marino"
+
+#: countries.py:191
+msgid "Sao Tome And Principe"
+msgstr "São Tome e Príncipe"
+
+#: countries.py:192
+msgid "Saudi Arabia"
+msgstr "Arábia Saudita"
+
+#: countries.py:193
+msgid "Senegal"
+msgstr "Senegal"
+
+#: countries.py:194
+msgid "Serbia And Montenegro"
+msgstr "Sérvia e Montenegro"
+
+#: countries.py:195
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: countries.py:196
+msgid "Sierra Leone"
+msgstr "Serra Leoa"
+
+#: countries.py:197
+msgid "Singapore"
+msgstr "Singapura"
+
+#: countries.py:198
+msgid "Slovakia"
+msgstr "Eslováquia"
+
+#: countries.py:199
+msgid "Slovenia"
+msgstr "Eslovênia"
+
+#: countries.py:200
+msgid "Solomon Islands"
+msgstr "Ilhas Salomão"
+
+#: countries.py:201
+msgid "Somalia"
+msgstr "Somália"
+
+#: countries.py:202
+msgid "South Africa"
+msgstr "África do Sul"
+
+#: countries.py:203
+msgid "South Georgia And The South Sandwich Islands"
+msgstr "Ilhas Georgia do Sul e Sandwich do Sul"
+
+#: countries.py:204
+msgid "Spain"
+msgstr "Espanha"
+
+#: countries.py:205
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: countries.py:206
+msgid "St. Helena"
+msgstr "St. Helena"
+
+#: countries.py:207
+msgid "St. Pierre And Miquelon"
+msgstr "St. Pierre e Miquelon"
+
+#: countries.py:208
+msgid "Sudan"
+msgstr "Sudão"
+
+#: countries.py:209
+msgid "Suriname"
+msgstr "Suriname"
+
+#: countries.py:210
+msgid "Svalbard And Jan Mayen Islands"
+msgstr "Ilhas Svalbard e Jan Mayen"
+
+#: countries.py:211
+msgid "Swaziland"
+msgstr "Suazilândia"
+
+#: countries.py:212
+msgid "Sweden"
+msgstr "Suécia"
+
+#: countries.py:213
+msgid "Switzerland"
+msgstr "Suíça"
+
+#: countries.py:214
+msgid "Syria"
+msgstr "Síria"
+
+#: countries.py:215
+msgid "Taiwan"
+msgstr "Formosa"
+
+#: countries.py:216
+msgid "Tajikistan"
+msgstr "Tajiquistão"
+
+#: countries.py:217
+msgid "Tanzania, United Republic Of"
+msgstr "Tanzânia, República Unida da"
+
+#: countries.py:218
+msgid "Thailand"
+msgstr "Tailândia"
+
+#: countries.py:219
+msgid "Timor-Leste"
+msgstr "Timor Leste"
+
+#: countries.py:220
+msgid "Togo"
+msgstr "Togo"
+
+#: countries.py:221
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: countries.py:222
+msgid "Tonga"
+msgstr "Tonga"
+
+#: countries.py:223
+msgid "Trinidad And Tobago"
+msgstr "Trinidad e Tobago"
+
+#: countries.py:224
+msgid "Tunisia"
+msgstr "Tunísia"
+
+#: countries.py:225
+msgid "Turkey"
+msgstr "Turquia"
+
+#: countries.py:226
+msgid "Turkmenistan"
+msgstr "Turcomenistão"
+
+#: countries.py:227
+msgid "Turks And Caicos Islands"
+msgstr "Ilhas Turks e Caicos"
+
+#: countries.py:228
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: countries.py:229
+msgid "Uganda"
+msgstr "Uganda"
+
+#: countries.py:230
+msgid "Ukraine"
+msgstr "Ucrânia"
+
+#: countries.py:231
+msgid "United Arab Emirates"
+msgstr "Emirados Árabes Unidos"
+
+#: countries.py:232
+msgid "United Kingdom"
+msgstr "Reino Unido"
+
+#: countries.py:233
+msgid "United States Minor Outlying Islands"
+msgstr "Ilhas ao Largo dos Estados Unidos"
+
+#: countries.py:234
+msgid "Uruguay"
+msgstr "Uruguai"
+
+#: countries.py:235
+msgid "Uzbekistan"
+msgstr "Uzbequistão"
+
+#: countries.py:236
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: countries.py:237
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: countries.py:238
+msgid "Viet Nam"
+msgstr "Vietnã"
+
+#: countries.py:239
+msgid "Virgin Islands, British"
+msgstr "Ilhas Virgens, Inglaterra"
+
+#: countries.py:240
+msgid "Virgin Islands, U.S."
+msgstr "Ilhas Virgens, EUA"
+
+#: countries.py:241
+msgid "Wallis And Futuna Islands"
+msgstr "Ilhas Wallis e Futuna"
+
+#: countries.py:242
+msgid "Western Sahara"
+msgstr "Sahara Ocidental"
+
+#: countries.py:243
+msgid "Yemen"
+msgstr "Yemen"
+
+#: countries.py:244
+msgid "Zambia"
+msgstr "Zâmbia"
+
+#: countries.py:245
+msgid "Zimbabwe"
+msgstr "Zimbábue"

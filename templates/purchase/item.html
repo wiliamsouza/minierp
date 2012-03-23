@@ -1,0 +1,15 @@
+{% extends "purchase/base.html" %}
+
+{% block item %}
+  <h2>{{ title }}</h2>
+  <form action="/purchase/item/add/supplier/{{ supplier_id }}/order/{{ order_id }}/" method="POST">
+    <table>
+      {{ form }}
+    <tr>
+      <td colspan=2 align=right>
+        <input type=submit value="Save">
+      </td>
+    </tr>
+    </table>
+  </form>
+{% endblock %}

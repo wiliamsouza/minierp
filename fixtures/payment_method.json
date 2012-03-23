@@ -1,0 +1,1 @@
+[{"pk": "1", "model": "purchase.paymentmethod", "fields": {"method": "Money"}}, {"pk": "2", "model": "purchase.paymentmethod", "fields": {"method": "Check"}}, {"pk": "3", "model": "purchase.paymentmethod", "fields": {"method": "Bill"}}]

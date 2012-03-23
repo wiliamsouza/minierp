@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block minierp %}
+
+  {% include "navigator.html" %}
+
+  <p>MiniErp, simple control for small enterprises.</p>
+
+  {% filter escape %}
+    This text will be HTML-escaped, and will appear in all lowercase.
+  {% endfilter %}
+  
+{% endblock %}

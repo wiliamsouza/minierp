@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block title %}/MiniErp/Login{% endblock %}
+
+{% block login %}
+  <h2>Log in</h2>
+  <form action="." method="post">
+    {% if form.has_errors %}
+      <h3 class="error">Please enter a valid username and password.</h3>
+    {% endif %}
+    <h4><label for="id_username">Username:</label></h4>
+    <p>{{ form.username }}</p>
+    <h4><label for="id_password">Password:</label></h4>
+    <p>{{ form.password }}</p>
+    <p><input class="button", type="submit" value="Login"></p>
+    <input type="hidden" name="next" value="{% if next %}{{ next|escape }}{% else %}/{% endif %}">
+  </form>
+{% endblock %}

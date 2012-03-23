@@ -1,0 +1,23 @@
+{% block objects-list %}
+  {% include "paginator.html" %}
+  {% load listutil %}
+  {% if object_list %}
+  <div id="objects-list">
+    {% for obj in object_list|partition:"4" %}
+      <ul>
+        {% for o in obj %}
+          <li>
+            <a href="{{ o.get_absolute_url }}">{{ o.name }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
+  </div>
+  {% else %}
+    <div class="error">
+      <b>{{ noavailable }}</b>
+    </div>
+  {% endif %}
+  {% include "paginator.html" %}
+{% endblock %}
+

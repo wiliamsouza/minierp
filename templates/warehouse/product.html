@@ -1,0 +1,16 @@
+{% extends "warehouse/base.html" %}
+
+{% block products %}
+  <h2>{{ title }}</h2>
+  <form action="" method="POST">
+  <input type='hidden' name='action' value='{{ action }}'>
+    <table>
+      {{ form }}
+    <tr>
+      <td colspan=2 align=right>
+        <input type=submit value="Save">
+      </td>
+    </tr>
+    </table>
+  </form>
+{% endblock %}

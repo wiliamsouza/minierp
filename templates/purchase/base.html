@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}/MiniErp/Purchase{% endblock %}
+
+{% block purchase %}
+
+  {% include "navigator.html" %}
+
+  <ul>
+    <li><a href="/purchase/order/add/">Add order</a></li>
+    <li><a href="/purchase/supplier/add/">Add supplier</a></li>
+    <li><a href="/purchase/order/">List order</a></li>
+    <li><a href="/purchase/supplier/">List supplier</a></li>
+  </ul>
+
+  {% block purchase-index %}{% endblock %}
+  {% block supplier %}{% endblock %}
+  {% block suppliers-list %}{% endblock %}
+  {% block order %}{% endblock %}
+  {% block orders-list %}{% endblock %}
+  {% block item %}{% endblock %}
+
+{% endblock %}

@@ -1,0 +1,15 @@
+;; Object minierp/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "minierp/"
+  :tables (list 
+   (semanticdb-table "manage.py"
+    :major-mode 'python-mode
+    :tags '(("django.core.management" include nil nil [23 73]) ("try" code nil nil [74 489]) ("if" code nil nil [490 547]))
+    :file "manage.py"
+    :pointmax 547
+    )
+   )
+  :file "semantic.cache"
+  :semantic-tag-version "2.0pre3"
+  :semanticdb-version "2.0pre3"
+  )
